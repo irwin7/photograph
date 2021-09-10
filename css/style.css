@@ -54,7 +54,7 @@ body{
 
 .gallery-imgs{
   display: grid;
-  grid-template-columns: repeat(4, 420px);
+  grid-template-columns: repeat(3, 420px);
   grid-template-rows: repeat(5, 262px);
   grid-gap: 20px;
   padding-top: 100px;
